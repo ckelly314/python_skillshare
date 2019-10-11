@@ -1,0 +1,16 @@
+name: py37
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
+  - basemap
+  - scipy
+  - xlrd
