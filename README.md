@@ -7,4 +7,4 @@ Stanford University
     for running these notebooks remotely through Binder. The link for launching the Binder
     server is:
     
-    https://hub-binder.mybinder.ovh/user/ckelly314-python_skillshare-c24p9m9w/tree
+    https://mybinder.org/v2/gh/ckelly314/python_skillshare/master
